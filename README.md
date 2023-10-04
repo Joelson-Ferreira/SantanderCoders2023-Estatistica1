@@ -14,12 +14,15 @@ Este repositório contém o projeto prático do módulo: Estatística I. Neste p
 Realizar uma análise exploratória de dados utilizando os datasets escolhidos. Estruture sua análise criando um storytelling: Uma história contada com informações, gráficos, imagens e medidas estatísticas, associando dados a fatos em uma linha do tempo. Você está livre para incluir quantas bases considerar necessário e filtrar as informações mais relevantes para sua história.
 
 **Dados**<br>
-Para este projeto utilizamos duas bases de informações, a primeira com um conjunto de dados abrangente que permite análises aprofundadas e insights entre países e a segunda contem informações de continentes e regiões para poder realizar uma melhor delimitação na aálise.
+Para este projeto utilizamos duas bases de informações, a primeira com um conjunto de dados abrangente que permite análises aprofundadas e insights entre países e a segunda contem informações de continentes e regiões para poder realizar uma melhor delimitação na análise.
 
 **Conclusões**<br>
-- a
-- b
-- c
+- Países com elevada taxa de natalidade e menor quantidade de médicos para cada mil habitantes são também os países com menor esperança de vida.
+- A expectativa de vida tende a aumentar em países com maior PIB per capita, o que indica populações ricas em média. Além disso, taxas de natalidade mais elevadas estão relacionadas com países com um menor PIB per capita. Portanto, o País de Baixa Renda pode não ter como investir em uma boa estrutura de saúde, o que pode resultar em Elevada Mortalidade Infantil e Materna.
+- O número de médicos para cada mil habitantes pode estar relacionado à qualidade e ao investimento em saúde pelo país. Vemos que quanto menor o número de médicos, pior a qualidade da saúde do país.
+- Os países com baixa expectativa de vida concentrados no continente africano.
+- Além de possuir uma menor quantidade de médicos por mil habitantes, os países da África e do Sul da Ásia possuem uma maior taxa de natalidade do que as outras regiões. Se seguirmos a lógica adotada anteriormente, países com poucos médicos e grandes taxas de natalidade possivelmente vão sofrer de maiores taxas de mortalidade infantil e maternal.
+- China (1º) e Indonésia (10º) apresentam uma boa distribuição entre a população urbana e rural. Índia diverge e apresenta uma baixa taxa de população urbana.
 
 **Componentes:**<br>
 
