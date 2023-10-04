@@ -32,4 +32,4 @@ Para este projeto utilizamos duas bases de informações, a primeira com um conj
   
 **Professor:**<br>
 
-- Igor Garcia - [LinkedIn](https://www.linkedin.com/in/igorgbs/)
+- Alex Lima - [LinkedIn](https://www.linkedin.com/in/alexcavalera/)
