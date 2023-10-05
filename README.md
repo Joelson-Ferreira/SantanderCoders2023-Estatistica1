@@ -16,6 +16,11 @@ Realizar uma análise exploratória de dados utilizando os datasets escolhidos. 
 **Dados**<br>
 Para este projeto utilizamos duas bases de informações, a primeira com um conjunto de dados abrangente que permite análises aprofundadas e insights entre países e a segunda contem informações de continentes e regiões para poder realizar uma melhor delimitação na análise.
 
+> Dados Globais: [kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/code)<br>
+> Continentes: [Cloford](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/code)
+
+
+
 **Conclusões**<br>
 - Países com elevada taxa de natalidade e menor quantidade de médicos para cada mil habitantes são também os países com menor expectativa de vida.
 - A expectativa de vida tende a aumentar em países com maior PIB per capita, o que indica populações ricas em média. Além disso, taxas de natalidade mais elevadas estão relacionadas com países com um menor PIB per capita. Portanto, o País de Baixa Renda pode não ter como investir em uma boa estrutura de saúde, o que pode resultar em Elevada Mortalidade Infantil e Materna.
@@ -24,12 +29,12 @@ Para este projeto utilizamos duas bases de informações, a primeira com um conj
 - Além de possuir uma menor quantidade de médicos por mil habitantes, os países da África e do Sul da Ásia possuem uma maior taxa de natalidade do que as outras regiões. Se seguirmos a lógica adotada anteriormente, países com poucos médicos e grandes taxas de natalidade possivelmente vão sofrer de maiores taxas de mortalidade infantil e maternal.
 - China e Indonésia apresentam uma boa distribuição entre a população urbana e rural. Índia diverge e apresenta uma baixa taxa de população urbana.
 
-**Componentes:**<br>
+**Componentes**<br>
 
 - Joelson Ferreira - <a href="https://www.linkedin.com/in/joelsons/" target="_blank">LinkedIn</a>
 - Paula Capuano - <a href="https://www.linkedin.com/in/paulacapuano/" target="_blank">LinkedIn</a>
 - Vagner Martins - <a href="https://www.linkedin.com/in/vagner-martins/" target="_blank">LinkedIn</a>
   
-**Professor:**<br>
+**Professor**<br>
 
 - Alex Lima - [LinkedIn](https://www.linkedin.com/in/alexcavalera/)
