@@ -17,7 +17,7 @@ Realizar uma análise exploratória de dados utilizando os datasets escolhidos. 
 Para este projeto utilizamos duas bases de informações, a primeira com um conjunto de dados abrangente que permite análises aprofundadas e insights entre países e a segunda contem informações de continentes e regiões para poder realizar uma melhor delimitação na análise.
 
 > Dados Globais: [kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/code)<br>
-> Continentes: [Cloford](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/code)
+> Continentes: [Cloford](https://cloford.com/resources/codes/index.htm)
 
 
 
